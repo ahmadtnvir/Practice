@@ -50,3 +50,21 @@
   font-size: 20px;
   font-weight: 600;
 }
+
+.main-info-container{
+    display: flex;
+    margin-top: 140px;
+}
+
+/* .info-img img{
+    width: 450px;
+    height: 900px;
+} */
+
+.info-img{
+  width: 528px;
+  height: 528px;
+  border-radius: 528px;
+  background: rgba(241, 91, 34, 0.20);
+  /* margin-top: 186px; */
+}
